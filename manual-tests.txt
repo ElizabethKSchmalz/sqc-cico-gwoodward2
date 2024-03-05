@@ -82,3 +82,10 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * Status panel should appear after step 2
 * Main panel should display after step 3
+
+Module 6
+
+*Input next cars number
+*add the card number to data base
+
+*should add to data base
